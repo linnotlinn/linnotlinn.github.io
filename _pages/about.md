@@ -39,6 +39,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2026.07*, Best Paper Award @CODI-CRAC 2026
 
-# 📖 Educations
+# 📖 Education
 - *2025.09 - now*, Georgetown University, M.S. in Computational Linguistics. 
 
