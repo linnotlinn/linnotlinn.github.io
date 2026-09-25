@@ -54,4 +54,4 @@ Feel free to email me if you share similar interests!
 - I did my undergraduate degree in several languages & literatures. Unfortunately, though, some of them have got really rusty. Right now the fluency ranking for my major languages are: Mandarin ~ English > German > Japanese > Cantonese > French.
 - I watch a ton of volleyball matches and figure skating competitions in my free time, but I only play badminton at a not-too-bad level (pretending that the racket is an extension of my arm🤓).
 - Over the years I've accumulated a long playlist of Cantonese ballads and Japanese pop/rock music:) Please ask me for recommendations.
-- Check out the website of my sister [Xinyue Keely Ai](https://keely-ai.github.io/)! 
+- Check out the website of my sister [Xinyue Keely Ai](https://keely-ai.github.io/) to learn about her cool work on improving generative models! 
