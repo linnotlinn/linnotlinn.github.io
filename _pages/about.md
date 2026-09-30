@@ -35,13 +35,13 @@ Feel free to email me if you share similar interests!
 **[Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension](https://arxiv.org/abs/2609.32119)**  
 Kohei Kajikawa<sup>†</sup>, **Lin Ai**<sup>†</sup>, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox  
 <sup>†</sup> Equal contribution  
-*Preprint, 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [PDF](https://arxiv.org/pdf/2609.32119)
+*Preprint, 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [code](https://github.com/kohei-kaji/contextsize)
 
 <br>
 
 **[DM Doppelgangers: Implicit Connectives as eRST Signals](https://aclanthology.org/2026.codi-1.6/)**  
 **Lin Ai**, Amir Zeldes  
-*CODI-CRAC 2026* · 🏆 **Best Paper Award** · [Paper](https://aclanthology.org/2026.codi-1.6/) · [PDF](https://aclanthology.org/2026.codi-1.6.pdf)
+*CODI-CRAC 2026* · 🏆 **Best Paper Award** · [Paper](https://aclanthology.org/2026.codi-1.6/) 
 
 # 🎖 Honors and Awards
 
