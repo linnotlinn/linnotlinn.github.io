@@ -35,7 +35,7 @@ Feel free to email me if you share similar interests!
 **[Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension](https://arxiv.org/abs/2609.32119)**  
 Kohei Kajikawa<sup>†</sup>, **Lin Ai**<sup>†</sup>, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox  
 <sup>†</sup> Equal contribution  
-*Preprint, 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [code](https://github.com/kohei-kaji/contextsize)
+*Preprint, 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [Code](https://github.com/kohei-kaji/contextsize)
 
 <br>
 
