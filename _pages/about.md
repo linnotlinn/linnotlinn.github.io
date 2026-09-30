@@ -26,7 +26,7 @@ Feel free to email me if you share similar interests!
 
 
 # 🔥 News
-- *2026.08*: Our paper has been accepted to EMNLP 2026 Main Conference! Details to come:)
+- *2026.08*: [Our paper on reanalyzing surprisal & reading responses alignment with counterfactual texts](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP 2026 Main Conference 👏 Special shoutout to my PhD student mentor [Kohei Kajikawa](https://kohei-kaji.github.io/)!
 - *2026.06*: Our paper on enhancing eRST with implicit connectives has been accepted to CODI-CRAC 2026 (co-located with ACL 2026) and won the Best Paper Award!
 
 
