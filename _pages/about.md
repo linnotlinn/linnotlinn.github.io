@@ -27,7 +27,7 @@ Feel free to email me if you share similar interests!
 
 # 🔥 News
 - *2026.08*: [Our paper on reanalyzing surprisal & reading responses alignment with counterfactual texts](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP 2026 Main Conference 👏 Special shoutout to my PhD student mentor [Kohei Kajikawa](https://kohei-kaji.github.io/)!
-- *2026.06*: Our paper on enhancing eRST with implicit connectives has been accepted to CODI-CRAC 2026 (co-located with ACL 2026) and won the Best Paper Award!
+- *2026.06*: Our paper on enhancing eRST with implicit connectives has been accepted to [CODI-CRAC 2026 (co-located with ACL 2026)](https://sites.google.com/view/codi-crac2026/home) and won the Best Paper Award!
 
 
 # 📝 Publications
@@ -35,13 +35,13 @@ Feel free to email me if you share similar interests!
 **[Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension](https://arxiv.org/abs/2609.32119)**  
 Kohei Kajikawa<sup>†</sup>, **Lin Ai**<sup>†</sup>, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox  
 <sup>†</sup> Equal contribution  
-*Preprint, 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [Code](https://github.com/kohei-kaji/contextsize)
+*EMNLP 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [Code](https://github.com/kohei-kaji/contextsize)
 
 <br>
 
 **[DM Doppelgangers: Implicit Connectives as eRST Signals](https://aclanthology.org/2026.codi-1.6/)**  
 **Lin Ai**, Amir Zeldes  
-*CODI-CRAC 2026* · 🏆 **Best Paper Award** · [Paper](https://aclanthology.org/2026.codi-1.6/) 
+*[CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)* · 🏆 **Best Paper Award** · [Paper](https://aclanthology.org/2026.codi-1.6/) 
 
 # 🎖 Honors and Awards
 
