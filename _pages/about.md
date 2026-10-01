@@ -48,9 +48,10 @@ Kohei Kajikawa<sup>†</sup>, **Lin Ai**<sup>†</sup>, Tatsuki Kuribayashi, Eth
 - *2026.07*, Best Paper Award at [CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)
 
 
-# 📖 Education
+# 📖 Educations
 
 - *2025.09 - now*, Georgetown University, M.S. in Computational Linguistics.
+- *2024.10 - 2025.06*, University of Oxford, M.St. in Linguistics, Philology and Phonetics
 
 
 # 📚🏐 Misc.
