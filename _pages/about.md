@@ -8,55 +8,78 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-  {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-  {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
+<section id="about-me" class="section section--intro" markdown="1">
 
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-Hi! My name is Lin and I am currently a second-year Masters student in Computational Linguistics at Georgetown University, where I'm working with [Prof. Ethan Wilcox](https://wilcoxeg.github.io/) and [Prof. Amir Zeldes](https://gucorpling.org/amir/). I'm affiliated with [PICoL](https://picol-georgetown.github.io/) and [Corpling](https://gucorpling.org/corpling/). 
+Hi! My name is Lin and I am currently a second-year Masters student in Computational Linguistics at **Georgetown University**, where I'm working with [Prof. Ethan Wilcox](https://wilcoxeg.github.io/) and [Prof. Amir Zeldes](https://gucorpling.org/amir/). I'm affiliated with [PICoL](https://picol-georgetown.github.io/) and [Corpling](https://gucorpling.org/corpling/).
 
 My research interests broadly fall into two categories:
+
 1. What can language models and other statistical modeling techniques, informed by theoretical linguistics and psycholinguistics, tell us about human language?
 2. How can we evaluate and interpret language models and language model-based agents in ways that are rigorous and understandable to humans?
 
-Feel free to email me if you share similar interests!
+Feel free to [email me](mailto:la987@georgetown.edu) if you share similar interests!
 
+</section>
 
-# 🔥 News
-- *2026.08*: [Our paper on reanalyzing surprisal & reading responses alignment with counterfactual texts](https://arxiv.org/abs/2609.32119) has been accepted to EMNLP 2026 Main Conference 👏 Special shoutout to my PhD student mentor [Kohei Kajikawa](https://kohei-kaji.github.io/)!
-- *2026.06*: Our paper on enhancing eRST with implicit connectives has been accepted to [CODI-CRAC 2026 (co-located with ACL 2026)](https://sites.google.com/view/codi-crac2026/home) and won the Best Paper Award!
+<section id="news" class="section" markdown="1">
 
+## News
 
-# 📝 Publications
+<div class="dated-list" markdown="1">
 
-**[Using LMs to Model the Effects of Context and Coreference during Sentence Comprehension](https://arxiv.org/abs/2609.32119)**  
-Kohei Kajikawa<sup>†</sup>, **Lin Ai**<sup>†</sup>, Tatsuki Kuribayashi, Ethan Gotlieb Wilcox  
-<sup>†</sup> Equal contribution  
-*EMNLP 2026* · [Paper](https://arxiv.org/abs/2609.32119) · [Code](https://github.com/kohei-kaji/contextsize)
+- <span class="date">Aug 2026</span> [Our paper on reanalyzing surprisal & reading responses alignment with counterfactual texts](https://arxiv.org/abs/2609.32119) has been accepted to **EMNLP 2026** Main Conference 👏 Special shoutout to my PhD student mentor [Kohei Kajikawa](https://kohei-kaji.github.io/)!
+- <span class="date">Jun 2026</span> Our paper on enhancing eRST with implicit connectives has been accepted to [CODI-CRAC 2026 (co-located with ACL 2026)](https://sites.google.com/view/codi-crac2026/home) and won the **Best Paper Award**!
 
-<br>
+</div>
 
-**[DM Doppelgangers: Implicit Connectives as eRST Signals](https://aclanthology.org/2026.codi-1.6/)**  
-**Lin Ai**, Amir Zeldes  
-*[CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)* · 🏆 **Best Paper Award** · [Paper](https://aclanthology.org/2026.codi-1.6/) 
+</section>
 
-# 🎖 Honors and Awards
+<section id="publications" class="section">
 
-- *2026.07*, Best Paper Award at [CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)
+<h2>Publications</h2>
 
+{% include publications.html %}
 
-# 📖 Educations
+<p class="section__more"><a href="{{ site.author.googlescholar }}">Full list on Google Scholar →</a></p>
 
-- *2025.09 - now*, Georgetown University, M.S. in Computational Linguistics.
-- *2024.10 - 2025.06*, University of Oxford, M.St. in Linguistics, Philology and Phonetics
+</section>
 
+<section id="honors" class="section" markdown="1">
 
-# 📚🏐 Misc.
+## Honors and Awards
 
-- I did my undergraduate degree in several languages & literatures. Unfortunately, though, some of them have got really rusty. Right now the fluency ranking for my major languages are: Mandarin ~ English > German > Japanese > Cantonese > French.
-- I watch a ton of volleyball matches and figure skating competitions in my free time, but I only play badminton at a not-too-bad level (pretending that the racket is an extension of my arm🤓).
-- Over the years I've accumulated a long playlist of Cantonese ballads and Japanese pop/rock music:) Please ask me for recommendations.
-- Check out the website of my sister [Xinyue Keely Ai](https://keely-ai.github.io/) to learn about her cool work on improving generative models! 
+<div class="dated-list" markdown="1">
+
+- <span class="date">Jul 2026</span> **Best Paper Award**, [CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)
+
+</div>
+
+</section>
+
+<section id="education" class="section">
+
+<h2>Education</h2>
+
+<div class="edu">
+  <div class="edu__item">
+    <div class="edu__head"><span class="edu__school">Georgetown University</span><span class="edu__date">Sep 2025 – present</span></div>
+    <div class="edu__degree">M.S. in Computational Linguistics</div>
+  </div>
+  <div class="edu__item">
+    <div class="edu__head"><span class="edu__school">University of Oxford</span><span class="edu__date">Oct 2024 – Jun 2025</span></div>
+    <div class="edu__degree">M.St. in Linguistics, Philology and Phonetics</div>
+  </div>
+</div>
+
+</section>
+
+<section id="misc" class="section" markdown="1">
+
+## Misc
+
+- 🌏 I did my undergraduate degree in several languages & literatures. Unfortunately, though, some of them have got really rusty. Right now the fluency ranking for my major languages are: Mandarin ~ English > German > Japanese > Cantonese > French.
+- 🏐 I watch a ton of volleyball matches and figure skating competitions in my free time, but I only play badminton at a not-too-bad level (pretending that the racket is an extension of my arm🤓).
+- 🎵 Over the years I've accumulated a long playlist of Cantonese ballads and Japanese pop/rock music :) Please ask me for recommendations.
+- 📚 Check out the website of my sister [Xinyue Keely Ai](https://keely-ai.github.io/) to learn about her cool work on improving generative models!
+
+</section>
