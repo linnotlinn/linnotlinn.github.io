@@ -15,7 +15,7 @@ Hi! My name is Lin and I am currently a second-year Masters student in Computati
 My research interests broadly fall into two categories:
 
 1. What can language models tell us about human language?
-2. How can we evaluate and interpret language models in ways that are rigorous and understandable to humans
+2. How can we evaluate and interpret language models in ways that are rigorous and understandable to humans?
 
 Feel free to [email me](mailto:la987@georgetown.edu) if you share similar interests!
 
@@ -51,6 +51,9 @@ Feel free to [email me](mailto:la987@georgetown.edu) if you share similar intere
 <div class="dated-list" markdown="1">
 
 - <span class="date">Jul 2026</span> **Best Paper Award**, [CODI-CRAC 2026](https://sites.google.com/view/codi-crac2026/home)
+- <span class="date">2021–2023</span> **Robert S. Harrison College Scholar Program**, Cornell University
+- <span class="date">2022</span> **Summer Language Study Fellowship**, Cornell University
+- <span class="date">2019</span> **Tanner Dean's Scholars**, Cornell University
 
 </div>
 
@@ -68,6 +71,10 @@ Feel free to [email me](mailto:la987@georgetown.edu) if you share similar intere
   <div class="edu__item">
     <div class="edu__head"><span class="edu__school">University of Oxford</span><span class="edu__date">Oct 2024 – Jun 2025</span></div>
     <div class="edu__degree">M.St. in Linguistics, Philology and Phonetics</div>
+  </div>
+  <div class="edu__item">
+    <div class="edu__head"><span class="edu__school">Cornell University</span><span class="edu__date">2019 – 2023</span></div>
+    <div class="edu__degree">B.A. in Classics, Literature in English and the College Scholar Program</div>
   </div>
 </div>
 

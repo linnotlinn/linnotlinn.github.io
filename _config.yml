@@ -20,7 +20,7 @@ author:
   avatar           : "images/avatar.jpg"
   position         : "M.S. Student, Computational Linguistics"
   bio              : "Georgetown University"
-  interests        : ["Interpretability", "Language models", "LM evaluation", "Computational linguistics"]
+  interests        : ["Computational Linguistics", "Evaluation", "Interpretability", "Language Models"]
   location         : "Washington D.C., USA"
   email            : "la987@georgetown.edu"
   googlescholar    : "https://scholar.google.com/citations?user=As7tFbsAAAAJ&hl=en"
