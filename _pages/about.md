@@ -74,7 +74,7 @@ Feel free to [email me](mailto:la987@georgetown.edu) if you share similar intere
   </div>
   <div class="edu__item">
     <div class="edu__head"><span class="edu__school">Cornell University</span><span class="edu__date">2019 – 2023</span></div>
-    <div class="edu__degree">B.A. in Classics, Literature in English and the College Scholar Program</div>
+    <div class="edu__degree">B.A. in Classics, Literatures in English and the College Scholar Program</div>
   </div>
 </div>
 
