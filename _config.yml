@@ -16,7 +16,7 @@ baidu_site_verification  :
 # Profile shown in the sidebar
 author:
   name             : "Lin Ai"
-  name_native      :   # e.g. Chinese name, shown next to the name
+  name_native      : "艾霖"  # Chinese name, shown next to the name
   avatar           : "images/avatar.jpg"
   position         : "M.S. Student, Computational Linguistics"
   bio              : "Georgetown University"
