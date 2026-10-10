@@ -14,8 +14,8 @@ Hi! My name is Lin and I am currently a second-year Masters student in Computati
 
 My research interests broadly fall into two categories:
 
-1. What can language models and other statistical modeling techniques, informed by theoretical linguistics and psycholinguistics, tell us about human language?
-2. How can we evaluate and interpret language models and language model-based agents in ways that are rigorous and understandable to humans?
+1. What can language models tell us about human language?
+2. How can we evaluate and interpret language models in ways that are rigorous and understandable to humans
 
 Feel free to [email me](mailto:la987@georgetown.edu) if you share similar interests!
 
