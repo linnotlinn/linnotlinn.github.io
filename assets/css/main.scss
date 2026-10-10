@@ -7,30 +7,30 @@
 
 :root {
   --bg: #ffffff;
-  --bg-soft: #f4f7ee;
+  --bg-soft: #f3f7f1;
   --surface: #ffffff;
-  --text: #1c1f1a;
-  --text-2: #40453c;
-  --muted: #676d62;
-  --border: #e3e9d8;
-  --accent: #466a1c;
-  --accent-hover: #3a5716;
-  --accent-soft: #edf3e1;
-  --accent-line: rgba(70, 106, 28, 0.42);
-  --accent-ring: #a3c06f;
-  --avatar-shadow: 0 0 0 1px rgba(25, 35, 15, 0.06), 0 16px 36px -14px rgba(30, 50, 15, 0.42), 0 4px 12px -6px rgba(30, 50, 15, 0.18);
-  --pill-border: #d2e0b6;
-  --aurora-1: rgba(155, 190, 100, 0.40);
-  --aurora-2: rgba(226, 216, 140, 0.38);
-  --aurora-3: rgba(140, 205, 185, 0.30);
-  --line-1: rgba(110, 150, 55, 0.60);
-  --line-2: rgba(205, 185, 80, 0.50);
-  --line-3: rgba(95, 175, 150, 0.45);
+  --text: #1c1f1b;
+  --text-2: #40463e;
+  --muted: #676d64;
+  --border: #e1e8dd;
+  --accent: #45663a;
+  --accent-hover: #3a5530;
+  --accent-soft: #eaf2e6;
+  --accent-line: rgba(69, 102, 58, 0.42);
+  --accent-ring: #a7c49b;
+  --avatar-shadow: 0 0 0 1px rgba(25, 35, 20, 0.06), 0 16px 36px -14px rgba(30, 50, 25, 0.42), 0 4px 12px -6px rgba(30, 50, 25, 0.18);
+  --pill-border: #d3e2cc;
+  --aurora-1: rgba(150, 190, 130, 0.38);
+  --aurora-2: rgba(190, 215, 175, 0.34);
+  --aurora-3: rgba(140, 200, 180, 0.28);
+  --line-1: rgba(100, 145, 85, 0.60);
+  --line-2: rgba(150, 185, 130, 0.50);
+  --line-3: rgba(100, 175, 150, 0.45);
   --aurora-line: linear-gradient(90deg, var(--line-1), var(--line-2) 45%, var(--line-3) 75%, transparent);
   --highlight: #8a5300;
   --highlight-soft: #fbf0d9;
   --header-bg: rgba(255, 255, 255, 0.85);
-  --shadow: 0 1px 2px rgba(25, 40, 15, 0.05), 0 8px 24px rgba(25, 40, 15, 0.08);
+  --shadow: 0 1px 2px rgba(25, 40, 20, 0.05), 0 8px 24px rgba(25, 40, 20, 0.08);
 
   --font: "Times New Roman", Tinos, Times, "Songti SC", STSong, SimSun, serif;
   --header-h: 60px;
@@ -41,28 +41,28 @@
 :root[data-theme="dark"] {
   color-scheme: dark;
   --bg: #131316;
-  --bg-soft: #1c1d1f;
+  --bg-soft: #1b1d1c;
   --surface: #18181c;
   --text: #e6e6e9;
   --text-2: #c2c2c8;
   --muted: #8e8e97;
-  --border: #2a2c2e;
-  --accent: #a9cc72;
-  --accent-hover: #c9e0a0;
-  --accent-soft: rgba(169, 204, 114, 0.12);
-  --accent-line: rgba(169, 204, 114, 0.4);
-  --accent-ring: rgba(169, 204, 114, 0.55);
+  --border: #2a2d2b;
+  --accent: #a6c79a;
+  --accent-hover: #c4dcb9;
+  --accent-soft: rgba(166, 199, 154, 0.12);
+  --accent-line: rgba(166, 199, 154, 0.4);
+  --accent-ring: rgba(166, 199, 154, 0.55);
   --avatar-shadow: 0 0 0 1px rgba(255, 255, 255, 0.07), 0 16px 36px -12px rgba(0, 0, 0, 0.75);
-  --pill-border: rgba(169, 204, 114, 0.28);
+  --pill-border: rgba(166, 199, 154, 0.28);
   --highlight: #f0c36a;
   --highlight-soft: rgba(240, 195, 106, 0.13);
   --header-bg: rgba(19, 19, 22, 0.82);
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.4);
-  --aurora-1: rgba(130, 170, 80, 0.16);
-  --aurora-2: rgba(190, 180, 100, 0.08);
+  --aurora-1: rgba(120, 165, 105, 0.15);
+  --aurora-2: rgba(150, 180, 130, 0.08);
   --aurora-3: rgba(90, 160, 140, 0.08);
-  --line-1: rgba(169, 204, 114, 0.50);
-  --line-2: rgba(210, 195, 120, 0.36);
+  --line-1: rgba(166, 199, 154, 0.50);
+  --line-2: rgba(170, 195, 150, 0.36);
   --line-3: rgba(120, 190, 165, 0.32);
 }
 
@@ -265,7 +265,7 @@ p { margin: 0 0 1em; }
 
 .profile__avatar {
   width: 176px;
-  height: 176px;
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: var(--avatar-shadow);
@@ -696,7 +696,7 @@ p { margin: 0 0 1em; }
     gap: 0 24px;
   }
 
-  .profile__avatar { width: 112px; height: 112px; }
+  .profile__avatar { width: 112px; height: 140px; }
   .profile__name { margin-top: 0; font-size: 1.6rem; }
   .profile__native { display: inline; margin-left: 6px; }
 
@@ -769,7 +769,7 @@ p { margin: 0 0 1em; }
 
 @media (max-width: 420px) {
   .profile { grid-template-columns: 88px minmax(0, 1fr); gap: 0 16px; }
-  .profile__avatar { width: 88px; height: 88px; }
+  .profile__avatar { width: 88px; height: 110px; }
   .profile__name { font-size: 1.4rem; }
   .profile__native { display: block; margin-left: 0; }
 }
