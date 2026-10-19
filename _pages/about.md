@@ -80,6 +80,16 @@ Feel free to [email me](mailto:la987@georgetown.edu) if you share similar intere
 
 </section>
 
+<section id="cv" class="section">
+
+<h2>CV</h2>
+
+{% if site.author.cv %}
+<p><a href="{{ site.author.cv | relative_url }}">View my CV (PDF) →</a></p>
+{% endif %}
+
+</section>
+
 <section id="misc" class="section" markdown="1">
 
 ## Misc

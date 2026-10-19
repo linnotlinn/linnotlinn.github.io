@@ -10,6 +10,7 @@ Source for [Lin Ai's homepage](https://linnotlinn.github.io/), built with Jekyll
 | Publications | `_data/publications.yml` (field reference at the top of the file) |
 | Sidebar profile and links | `author:` in `_config.yml` |
 | Top navigation | `_data/navigation.yml` |
+| CV PDF | `files/Lin_CV.pdf` |
 | Styles, colors, light/dark themes | `assets/css/main.scss` |
 | Images | `images/` |
 

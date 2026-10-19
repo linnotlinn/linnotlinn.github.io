@@ -27,7 +27,7 @@ author:
   github           : "linnotlinn"
   twitter          : "linnotlinn_"
   linkedin         : "lin-ai-817a20205"
-  cv               :   # path or URL to a CV PDF, e.g. "files/cv.pdf"
+  cv               : "/files/Lin_CV.pdf"
 
 
 # Build
